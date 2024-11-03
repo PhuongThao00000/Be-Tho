@@ -5,7 +5,7 @@
 hihihihihihii
 class SanBong {
 public:
-    enum TinhTrang { TRONG, DA_DAT };
+    enum TinhTran { TRONG, DA_DAT };
     
 private:
     std::string tenSan;
