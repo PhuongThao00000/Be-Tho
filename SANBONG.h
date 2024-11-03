@@ -17,7 +17,7 @@ public:
 
     std::string getTenSan() const {
         return tenSan;
-    }
+    }alooo
 
     TinhTrang getTrangThai() const {
         return trangThai;
